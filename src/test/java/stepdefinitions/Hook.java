@@ -10,7 +10,7 @@ import utilities.Driver;
 public class Hook {
     @Before
     public void setUp(){
-        //System.out.println("setUp Çalıştı.");
+
     }
     @After
     public void tearDown(Scenario scenario){
